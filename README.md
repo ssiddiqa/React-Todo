@@ -1,25 +1,25 @@
-echo "# React Todo App 📝" > README.md
-echo "" >> README.md
-echo "A simple and efficient Todo application built with React.js, enabling users to manage their daily tasks seamlessly." >> README.md
-echo "" >> README.md
-echo "🌟 **Features**" >> README.md
-echo "- Add, edit, and delete tasks with ease." >> README.md
-echo "- Mark tasks as completed to stay organized." >> README.md
-echo "- Responsive design for optimal user experience on all devices." >> README.md
-echo "- Deployed on **Netlify**: [Live Demo](https://deft-selkie-85c030.netlify.app/)" >> README.md
-echo "" >> README.md
-echo "🚀 **Technologies Used**" >> README.md
-echo "- **React.js**: Front-end library for building user interfaces." >> README.md
-echo "- **CSS**: For styling and responsive design." >> README.md
-echo "- **Netlify**: For hosting and deployment." >> README.md
-echo "" >> README.md
-echo "📂 **Project Setup**" >> README.md
-echo "Clone the repository and follow these steps to run locally:" >> README.md
-echo "\`\`\`bash" >> README.md
-echo "git clone https://github.com/ssiddiqa/React-Todo.git" >> README.md
-echo "cd React-Todo" >> README.md
-echo "npm install" >> README.md
-echo "npm start" >> README.md
-echo "\`\`\`" >> README.md
-echo "" >> README.md
-echo "Contributions are welcome! Feel free to fork the repository and submit pull requests." >> README.md
+# React Todo App 📝
+
+A simple and efficient Todo application built with React.js, enabling users to manage their daily tasks seamlessly.
+
+🌟 **Features**
+- Add, edit, and delete tasks with ease.
+- Mark tasks as completed to stay organized.
+- Responsive design for optimal user experience on all devices.
+- Deployed on **Netlify**: [Live Demo](https://deft-selkie-85c030.netlify.app/)
+
+🚀 **Technologies Used**
+- **React.js**: Front-end library for building user interfaces.
+- **CSS**: For styling and responsive design.
+- **Netlify**: For hosting and deployment.
+
+📂 **Project Setup**
+Clone the repository and follow these steps to run locally:
+```bash
+git clone https://github.com/ssiddiqa/React-Todo.git
+cd React-Todo
+npm install
+npm start
+
+
+You can paste this directly into your GitHub repository's `README.md` file.
