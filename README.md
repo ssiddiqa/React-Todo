@@ -6,12 +6,12 @@ A simple and efficient Todo application built with React.js, enabling users to m
 - Add, edit, and delete tasks with ease.
 - Mark tasks as completed to stay organized.
 - Responsive design for optimal user experience on all devices.
-- Deployed on **Netlify**: [Live Demo](https://deft-selkie-85c030.netlify.app/)
+- [Live Demo](https://deft-selkie-85c030.netlify.app/)
 
 🚀 **Technologies Used**
 - **React.js**: Front-end library for building user interfaces.
-- **CSS**: For styling and responsive design.
-- **Netlify**: For hosting and deployment.
+- **Tailwind CSS**: For styling and responsive design.
+
 
 📂 **Project Setup**
 Clone the repository and follow these steps to run locally:
@@ -22,4 +22,3 @@ npm install
 npm start
 
 
-You can paste this directly into your GitHub repository's `README.md` file.
